@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/freq/static/css/main.678f25c7.chunk.css",
+    "main.css": "/freq/static/css/main.6e862a9d.chunk.css",
     "main.js": "/freq/static/js/main.0766c198.chunk.js",
     "main.js.map": "/freq/static/js/main.0766c198.chunk.js.map",
     "runtime-main.js": "/freq/static/js/runtime-main.29f4a5f8.js",
@@ -8,15 +8,15 @@
     "static/js/2.2f557415.chunk.js": "/freq/static/js/2.2f557415.chunk.js",
     "static/js/2.2f557415.chunk.js.map": "/freq/static/js/2.2f557415.chunk.js.map",
     "index.html": "/freq/index.html",
-    "precache-manifest.794bf7b45c30d3644666ac106d25f719.js": "/freq/precache-manifest.794bf7b45c30d3644666ac106d25f719.js",
+    "precache-manifest.9587c4cf44d1a5de5140685c0df1105c.js": "/freq/precache-manifest.9587c4cf44d1a5de5140685c0df1105c.js",
     "service-worker.js": "/freq/service-worker.js",
-    "static/css/main.678f25c7.chunk.css.map": "/freq/static/css/main.678f25c7.chunk.css.map",
+    "static/css/main.6e862a9d.chunk.css.map": "/freq/static/css/main.6e862a9d.chunk.css.map",
     "static/js/2.2f557415.chunk.js.LICENSE.txt": "/freq/static/js/2.2f557415.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.29f4a5f8.js",
     "static/js/2.2f557415.chunk.js",
-    "static/css/main.678f25c7.chunk.css",
+    "static/css/main.6e862a9d.chunk.css",
     "static/js/main.0766c198.chunk.js"
   ]
 }
