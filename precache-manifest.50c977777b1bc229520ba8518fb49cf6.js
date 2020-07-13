@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "360f00dcd1f30c3287aec0b84a73ed54",
+    "revision": "7ba9d3924976a64817fefcbcf4909387",
     "url": "/freq/index.html"
   },
   {
-    "revision": "c44340f25f3b8d006ce2",
-    "url": "/freq/static/css/main.6e862a9d.chunk.css"
+    "revision": "16d048f77b7a03f831dc",
+    "url": "/freq/static/css/main.e3ef8b48.chunk.css"
   },
   {
     "revision": "0c749105a63e51bb6c80",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/freq/static/js/2.2f557415.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c44340f25f3b8d006ce2",
+    "revision": "16d048f77b7a03f831dc",
     "url": "/freq/static/js/main.0766c198.chunk.js"
   },
   {
